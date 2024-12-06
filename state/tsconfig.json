@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ES2020",
+    "strict": true,
+    "strictPropertyInitialization": false,
+
+  }
+}
